@@ -1,2 +1,2 @@
 # machinelearning
-Simples machine learning tools
+Simple machine learning tools
